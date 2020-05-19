@@ -1,0 +1,12 @@
+@ echo off
+:Main Class
+color A
+:A
+color 1A
+:1A
+echo Koszontelek a kvizben!
+:Another Class
+echo Mi a neved?
+set /p Name= 
+pause
+exit
